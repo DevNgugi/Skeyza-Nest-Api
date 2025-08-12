@@ -1,4 +1,4 @@
-## SPOFITY
+## SKEYZA
 Websockets for Realtime Notifications
 MinIo for media storage
 Jest - Testing
